@@ -53,7 +53,7 @@ GitHub also provides a [tutorial](https://guides.github.com/features/mastering-m
 
 #### 1. Introduction
 
-This is implementation about FCN-8s. This model used  [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road.php) for training, so can classify road or no road(2 classes). Pretrained VGG16 is used as encoder. Detail explanation is written in below.
+This is implementation about FCN-8s which end to end full convolutional network. This model used  [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road.php) for training, so can classify road or no road(2 classes). Pretrained VGG16 is used as encoder. Detail explanation is written in below.
 
 
 
